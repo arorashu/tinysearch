@@ -2,7 +2,7 @@
 An educational infrastructure for general search
 
 ## Description
-Searches for the wuery in the `.txt` files in the `data` folder.
+Searches for the query in the `.txt` files in the `data` folder.
 
 
 ## References
